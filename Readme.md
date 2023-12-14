@@ -6,9 +6,8 @@
 
 
 ◈ Official Website for [<sz/> Team Bots](https://t.me/szteambots).
-◈ You can visit our [website](https://www.szbots.tech/) with [this link](https://www.szbots.tech/)
+◈ You can visit our [website](https://szbots.github.io/SZ-Website/) with [this link](https://szbots.github.io/SZ-Website/)
 
 
 # Special Thanks
 ★ For hosting : [Github](https://github.com/szbots)
-★ For domain  : [Dileepa Malshan](https://t.me/VPN_HUB_LK)
